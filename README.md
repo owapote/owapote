@@ -16,8 +16,8 @@
 <h3 align="left">リンク集:</h3>
 <p align="left">
 <a href="https://twitter.com/owapote_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owapote_pro" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/owapote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="owapote" height="30" width="40" /></a>
-<a href="/owapote.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="owapote.github.io" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@owapote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="owapote" height="30" width="40" /></a>
+<a href="owapote.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="owapote.github.io" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">言語とツール:</h3>
