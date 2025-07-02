@@ -15,7 +15,7 @@
 
 - 🌱 **C++、React、Vim** を学習中！
 - 📝 [owapote.github.io](https://owapote.github.io) を執筆中！
-- 
+
 ### ブログ投稿
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
