@@ -28,7 +28,7 @@
   <a href="https://www.youtube.com/@owapote" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="owapote" height="30" width="40" />
   </a>
-  <a href="https://owapote.github.io" target="blank">Add commentMore actions
+  <a href="https://owapote.github.io" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="owapote.github.io" height="30" width="40" />
   </a>
 </p>
