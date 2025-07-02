@@ -13,8 +13,9 @@
   <a href="https://twitter.com/owapote_pro" target="blank"><img src="https://img.shields.io/twitter/follow/owapote_pro?logo=twitter&style=for-the-badge" alt="owapote_pro" /></a>
 </p>
 
-- 🌱 **C++、React、Vim** を学習中
-
+- 🌱 **C++、React、Vim** を学習中！
+- 📝 [owapote.github.io](owapote.github.io) を執筆中！
+- 
 ### ブログ投稿
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -26,9 +27,6 @@
   </a>
   <a href="https://www.youtube.com/@owapote" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="owapote" height="30" width="40" />
-  </a>
-  <a href="owapote.github.io" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="owapote.github.io" height="30" width="40" />
   </a>
 </p>
 
